@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="65" started-at="2020-05-17T17:38:45 EDT" finished-at="2020-05-17T17:38:45 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="65" started-at="2020-05-17T17:38:45 EDT" finished-at="2020-05-17T17:38:45 EDT">
+      <class name="MavenAcademy.MavenTest.AppiumTest">
+        <test-method status="PASS" signature="IOSapp()[pri:0, instance:MavenAcademy.MavenTest.AppiumTest@20398b7c]" name="IOSapp" duration-ms="0" started-at="2020-05-17T17:38:45 EDT" finished-at="2020-05-17T17:38:45 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSapp -->
+        <test-method status="PASS" signature="NativeAndroidApp()[pri:0, instance:MavenAcademy.MavenTest.AppiumTest@20398b7c]" name="NativeAndroidApp" duration-ms="0" started-at="2020-05-17T17:38:45 EDT" finished-at="2020-05-17T17:38:45 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAndroidApp -->
+      </class> <!-- MavenAcademy.MavenTest.AppiumTest -->
+      <class name="MavenAcademy.MavenTest.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:MavenAcademy.MavenTest.SeleniumTest@71423665]" name="BrowserAutomation" duration-ms="5" started-at="2020-05-17T17:38:45 EDT" finished-at="2020-05-17T17:38:45 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:MavenAcademy.MavenTest.SeleniumTest@71423665]" name="ElementsUI" duration-ms="1" started-at="2020-05-17T17:38:45 EDT" finished-at="2020-05-17T17:38:45 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- MavenAcademy.MavenTest.SeleniumTest -->
+      <class name="MavenAcademy.MavenTest.RESTAPITest">
+        <test-method status="PASS" signature="DeleteTwitter()[pri:0, instance:MavenAcademy.MavenTest.RESTAPITest@6fc6f14e]" name="DeleteTwitter" duration-ms="1" started-at="2020-05-17T17:38:45 EDT" finished-at="2020-05-17T17:38:45 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTwitter -->
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:MavenAcademy.MavenTest.RESTAPITest@6fc6f14e]" name="PostJira" duration-ms="1" started-at="2020-05-17T17:38:45 EDT" finished-at="2020-05-17T17:38:45 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+      </class> <!-- MavenAcademy.MavenTest.RESTAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
